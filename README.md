@@ -97,10 +97,3 @@ The following visualizations were included:
 - Seaborn
 - Scikit-learn
 
----
-
-## How to Run
-
-### Clone the repository
-```bash
-git clone <your-repository-link>
